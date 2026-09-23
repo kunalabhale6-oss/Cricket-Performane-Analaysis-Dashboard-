@@ -1,4 +1,4 @@
-# Cricket-Performane-Analaysis-Dashboard-
+
 Cricket Player Performance Dashboard built in Excel to analyze player statistics, batting performance, runs, centuries, half-centuries, and highest individual scores.
 
 # 🏏 Cricket Player Performance Dashboard
@@ -54,7 +54,7 @@ The dashboard contains multiple charts to visualize:
 
 ## 📷 Dashboard Preview
 
-![Cricket Player Performance Dashboard](dashboard.png)
+![Cricket Player Performance Dashboard](dashboard.png) <img width="945" height="661" alt="Cricket Performance Analysis Dashboard" src="https://github.com/user-attachments/assets/e51f77f4-0f68-4369-9a84-9dd86a546545" />
 
 ## 📂 Project Files
 
