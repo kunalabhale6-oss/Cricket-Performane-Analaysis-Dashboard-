@@ -3,6 +3,10 @@ Cricket Player Performance Dashboard built in Excel to analyze player statistics
 
 # 🏏 Cricket Player Performance Dashboard
 
+## 📷 Dashboard Preview
+
+![Cricket Player Performance Dashboard](dashboard.png) <img width="945" height="661" alt="Cricket Performance Analysis Dashboard" src="https://github.com/user-attachments/assets/e51f77f4-0f68-4369-9a84-9dd86a546545" />
+
 ## 📊 Project Overview
 
 This project is an Excel-based Cricket Player Performance Dashboard created to analyze and visualize cricket player statistics.
@@ -52,9 +56,7 @@ The dashboard contains multiple charts to visualize:
 - Highest Individual Scores
 - Player-wise comparison of batting statistics
 
-## 📷 Dashboard Preview
 
-![Cricket Player Performance Dashboard](dashboard.png) <img width="945" height="661" alt="Cricket Performance Analysis Dashboard" src="https://github.com/user-attachments/assets/e51f77f4-0f68-4369-9a84-9dd86a546545" />
 
 ## 📂 Project Files
 
